@@ -1,4 +1,4 @@
-```markdown
+
 # Cognitive Score Assessment Tool
 
 A machine learning-based application that predicts cognitive performance scores using sleep and health metrics.
@@ -16,7 +16,7 @@ This tool analyzes sleep patterns and health indicators to generate a cognitive 
 
 ## Project Structure
 
-```
+
 cognitive-score/
 ├── app.py              # Main web application (Flask/Dash/Streamlit)
 ├── train.py            # ML model training script
